@@ -1,0 +1,150 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,participant_ID,english_first_language,country_of_birth,list_1.order_1.exp_filler.item_5.cond_filler.lit_Yes,list_1.order_2.exp_lexical.item_2.cond_real.lit_NA,list_1.order_3.exp_attention.item_2.cond_attention.lit_NA,list_1.order_4.exp_filler.item_2.cond_filler.lit_Yes,list_1.order_5.exp_filler.item_1.cond_filler.lit_Yes,list_1.order_6.exp_filler.item_3.cond_filler.lit_Yes,list_1.order_7.exp_dopo.item_1.cond_PO_plausible.lit_Yes,list_1.order_8.exp_dopo.item_2.cond_PO_implausible.lit_No,list_1.order_9.exp_dopo.item_4.cond_DO_implausible.lit_No,list_1.order_10.exp_dopo.item_3.cond_DO_plausible.lit_Yes,list_1.order_11.exp_lexical.item_1.cond_fake.lit_NA,list_1.order_12.exp_attention.item_1.cond_attention.lit_NA,list_1.order_13.exp_filler.item_4.cond_filler.lit_Yes,list_2.order_1.exp_filler.item_4.cond_filler.lit_Yes,list_2.order_2.exp_filler.item_2.cond_filler.lit_Yes,list_2.order_3.exp_attention.item_1.cond_attention.lit_NA,list_2.order_4.exp_filler.item_3.cond_filler.lit_Yes,list_2.order_5.exp_dopo.item_1.cond_PO_plausible.lit_Yes,list_2.order_6.exp_lexical.item_2.cond_fake.lit_NA,list_2.order_7.exp_dopo.item_2.cond_DO_implausible.lit_No,list_2.order_8.exp_filler.item_5.cond_filler.lit_Yes,list_2.order_9.exp_lexical.item_1.cond_real.lit_NA,list_2.order_10.exp_dopo.item_4.cond_DO_plausible.lit_Yes,list_2.order_11.exp_attention.item_2.cond_attention.lit_NA,list_2.order_12.exp_dopo.item_3.cond_PO_implausible.lit_No,list_2.order_13.exp_filler.item_1.cond_filler.lit_Yes,list_3.order_1.exp_dopo.item_3.cond_DO_implausible.lit_No,list_3.order_2.exp_filler.item_5.cond_filler.lit_Yes,list_3.order_3.exp_dopo.item_4.cond_PO_implausible.lit_No,list_3.order_4.exp_filler.item_2.cond_filler.lit_Yes,list_3.order_5.exp_attention.item_1.cond_attention.lit_NA,list_3.order_6.exp_filler.item_4.cond_filler.lit_Yes,list_3.order_7.exp_lexical.item_1.cond_real.lit_NA,list_3.order_8.exp_dopo.item_1.cond_PO_plausible.lit_Yes,list_3.order_9.exp_attention.item_2.cond_attention.lit_NA,list_3.order_10.exp_lexical.item_2.cond_fake.lit_NA,list_3.order_11.exp_dopo.item_2.cond_DO_plausible.lit_Yes,list_3.order_12.exp_filler.item_1.cond_filler.lit_Yes,list_3.order_13.exp_filler.item_3.cond_filler.lit_Yes,list_4.order_1.exp_filler.item_5.cond_filler.lit_Yes,list_4.order_2.exp_dopo.item_3.cond_PO_implausible.lit_No,list_4.order_3.exp_filler.item_3.cond_filler.lit_Yes,list_4.order_4.exp_attention.item_1.cond_attention.lit_NA,list_4.order_5.exp_lexical.item_2.cond_fake.lit_NA,list_4.order_6.exp_filler.item_2.cond_filler.lit_Yes,list_4.order_7.exp_dopo.item_2.cond_DO_plausible.lit_Yes,list_4.order_8.exp_filler.item_1.cond_filler.lit_Yes,list_4.order_9.exp_filler.item_4.cond_filler.lit_Yes,list_4.order_10.exp_dopo.item_4.cond_PO_plausible.lit_Yes,list_4.order_11.exp_lexical.item_1.cond_real.lit_NA,list_4.order_12.exp_attention.item_2.cond_attention.lit_NA,list_4.order_13.exp_dopo.item_1.cond_DO_implausible.lit_No,list_5.order_1.exp_lexical.item_1.cond_fake.lit_NA,list_5.order_2.exp_attention.item_1.cond_attention.lit_NA,list_5.order_3.exp_dopo.item_2.cond_DO_plausible.lit_Yes,list_5.order_4.exp_attention.item_2.cond_attention.lit_NA,list_5.order_5.exp_filler.item_2.cond_filler.lit_Yes,list_5.order_6.exp_filler.item_3.cond_filler.lit_Yes,list_5.order_7.exp_dopo.item_4.cond_DO_implausible.lit_No,list_5.order_8.exp_filler.item_4.cond_filler.lit_Yes,list_5.order_9.exp_dopo.item_1.cond_PO_implausible.lit_No,list_5.order_10.exp_lexical.item_2.cond_real.lit_NA,list_5.order_11.exp_filler.item_5.cond_filler.lit_Yes,list_5.order_12.exp_dopo.item_3.cond_PO_plausible.lit_Yes,list_5.order_13.exp_filler.item_1.cond_filler.lit_Yes
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Please provide your prolific ID,Is English your first language?,Where were you born?,"The toddler hugged a teddybear because he was scared.
+
+
+Did the toddler hug someone/something?",chair,"Complete the sentence:
+Sheila's favorite birthday present  ____","The commissioner wrote a report for the chairman.
+
+
+Did the commissioner write someone/something?","The professor conducted an inquiry into the status of the file.
+
+
+Did the professor conduct someone/something?","The terrorist assassinated the newsman in cold blood.
+
+
+Did the terrorist kill someone/something?","The sister mailed the letter to the niece.
+
+
+Did the niece receive something/someone?","The mother gave the daughter to the candle.
+
+
+Did the daughter receive something/someone?","The contractor lent the saw the homeowner.
+
+
+Did the homeowner receive something/someone?","The uncle sold the father the truck.
+
+
+Did the father receive something/someone?",tabol,"Complete the sentence:
+When Danny walked to school ____","A legislator lied to the consultant about a new bill.
+
+
+Did the legislator lie about someone/something?","A legislator lied to the consultant about a new bill.
+
+
+Did the legislator lie about someone/something?","The commissioner wrote a report for the chairman.
+
+
+Did the commissioner write someone/something?","Complete the sentence:
+When Danny walked to school ____","The terrorist assassinated the newsman in cold blood.
+
+
+Did the terrorist kill someone/something?","The sister mailed the letter to the niece.
+
+
+Did the niece receive something/someone?",cheh,"The mother gave the candle the daughter.
+
+
+Did the daughter receive something/someone?","The toddler hugged a teddybear because he was scared.
+
+
+Did the toddler hug someone/something?",table,"The contractor lent the homeowner the saw.
+
+
+Did the homeowner receive something/someone?","Complete the sentence:
+Sheila's favorite birthday present  ____","The uncle sold the father to the truck.
+
+
+Did the father receive something/someone?","The professor conducted an inquiry into the status of the file.
+
+
+Did the professor conduct someone/something?","The uncle sold the truck the father.
+
+
+Did the father receive something/someone?","The toddler hugged a teddybear because he was scared.
+
+
+Did the toddler hug someone/something?","The contractor lent the homeowner to the saw.
+
+
+Did the homeowner receive something/someone?","The commissioner wrote a report for the chairman.
+
+
+Did the commissioner write someone/something?","Complete the sentence:
+When Danny walked to school ____","A legislator lied to the consultant about a new bill.
+
+
+Did the legislator lie about someone/something?",table,"The sister mailed the letter to the niece.
+
+
+Did the niece receive something/someone?","Complete the sentence:
+Sheila's favorite birthday present  ____",cheh,"The mother gave the daughter the candle.
+
+
+Did the daughter receive something/someone?","The professor conducted an inquiry into the status of the file.
+
+
+Did the professor conduct someone/something?","The terrorist assassinated the newsman in cold blood.
+
+
+Did the terrorist kill someone/something?","The toddler hugged a teddybear because he was scared.
+
+
+Did the toddler hug someone/something?","The uncle sold the father to the truck.
+
+
+Did the father receive something/someone?","The terrorist assassinated the newsman in cold blood.
+
+
+Did the terrorist kill someone/something?","Complete the sentence:
+When Danny walked to school ____",cheh,"The commissioner wrote a report for the chairman.
+
+
+Did the commissioner write someone/something?","The mother gave the daughter the candle.
+
+
+Did the daughter receive something/someone?","The professor conducted an inquiry into the status of the file.
+
+
+Did the professor conduct someone/something?","A legislator lied to the consultant about a new bill.
+
+
+Did the legislator lie about someone/something?","The contractor lent the saw to the homeowner.
+
+
+Did the homeowner receive something/someone?",table,"Complete the sentence:
+Sheila's favorite birthday present  ____","The sister mailed the letter the niece.
+
+
+Did the niece receive something/someone?",tabol,"Complete the sentence:
+When Danny walked to school ____","The mother gave the daughter the candle.
+
+
+Did the daughter receive something/someone?","Complete the sentence:
+Sheila's favorite birthday present  ____","The commissioner wrote a report for the chairman.
+
+
+Did the commissioner write someone/something?","The terrorist assassinated the newsman in cold blood.
+
+
+Did the terrorist kill someone/something?","The contractor lent the saw the homeowner.
+
+
+Did the homeowner receive something/someone?","A legislator lied to the consultant about a new bill.
+
+
+Did the legislator lie about someone/something?","The sister mailed the niece to the letter.
+
+
+Did the niece receive something/someone?",chair,"The toddler hugged a teddybear because he was scared.
+
+
+Did the toddler hug someone/something?","The uncle sold the truck to the father.
+
+
+Did the father receive something/someone?","The professor conducted an inquiry into the status of the file.
+
+
+Did the professor conduct someone/something?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID3_TEXT""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18_TEXT""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22_TEXT""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30_TEXT""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37_TEXT""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41_TEXT""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48""}","{""ImportId"":""QID49_TEXT""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57_TEXT""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60_TEXT""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID63""}","{""ImportId"":""QID64""}","{""ImportId"":""QID65""}","{""ImportId"":""QID66""}","{""ImportId"":""QID67""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69""}","{""ImportId"":""QID70""}","{""ImportId"":""QID71""}"
+2022-10-06 12:29:11,2022-10-06 12:36:01,Survey Preview,*******,100,410,True,2022-10-06 12:36:02,R_3dVQ39iUixNTU3v,*******,*******,*******,*******,*******,*******,preview,EN,m1,Yes,United States,,,,,,,,,,,,,,Yes,No,asdfasfd,No,No,4,Yes,No,Definitely Fake3,No,zxcvzxcvzxcv,No,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-10-06 12:36:17,2022-10-06 12:36:36,Survey Preview,*******,100,19,True,2022-10-06 12:36:37,R_bJFEK0qiqJmvMuR,*******,*******,*******,*******,*******,*******,preview,EN,m2,No,New Zealand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,ssdfs,Yes,adsfa,No,Yes,No,No,No,5,No,No,No

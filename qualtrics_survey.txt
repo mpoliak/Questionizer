@@ -1,0 +1,559 @@
+[[AdvancedFormat]] 
+[[Block:headerBlock]] 
+[[Question:DB]] 
+[[ID:consent]] 
+Consent Statement:<br>By answering the following questions you are participating in a study being performed by language scientists in the Sesame Street Department of Language Science. If you have questions about this research, please contact Cookie Monster at cookiemonster@sesamestreet.edu. <br><br> Your participation in this research is voluntary. You may decline to answer any or all of the following questions. You may decline further participation at any time without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you. Please answer the background questions below. The only restriction to being paid is achieving the accuracy requirements listed below. Payment is NOT dependent on your answers to the following background questions on country and language. 
+[[Question:TE:SingleLine]] 
+[[ID:participant_ID]] 
+Please provide your prolific ID 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:english_first_language]] 
+Is English your first language? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:country_of_birth]] 
+Where were you born? 
+[[AdvancedChoices]] 
+[[Choice]] 
+United States 
+[[Choice]] 
+Canada 
+[[Choice]] 
+UK 
+[[Choice]] 
+Australia 
+[[Choice]] 
+New Zealand 
+[[Choice]] 
+Other 
+[[Question:DB]] 
+[[ID:instructions]] 
+Instructions: Please read each sentence and then answer the question immediately following. Please note that there are correct answers for many questions. We will reject users with error rates of 25% or larger. Consequently if you cannot answer 75% of the questions correctly please do not fill out the survey. 
+[[Block:list_1]] 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_1.exp_dopo.item_1.cond_PO_plausible.lit_Yes]] 
+The sister mailed the letter to the niece. 
+<br> 
+Did the niece receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_2.exp_filler.item_4.cond_filler.lit_Yes]] 
+A legislator lied to the consultant about a new bill. 
+<br> 
+Did the legislator lie about someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:TE:SingleLine]] 
+[[ID:list_1.order_3.exp_attention.item_2.cond_attention.lit_NA]] 
+Sheila's favorite birthday present  ____ 
+<br><br> 
+Complete the sentence: 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_4.exp_dopo.item_4.cond_DO_implausible.lit_No]] 
+The contractor lent the saw the homeowner. 
+<br> 
+Did the homeowner receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_5.exp_dopo.item_3.cond_DO_plausible.lit_Yes]] 
+The uncle sold the father the truck. 
+<br> 
+Did the father receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_6.exp_dopo.item_2.cond_PO_implausible.lit_No]] 
+The mother gave the daughter to the candle. 
+<br> 
+Did the daughter receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_7.exp_lexical.item_1.cond_word.lit_NA]] 
+table 
+<br> 
+[[AdvancedChoices]] 
+[[Choice]] 
+Definitely Nonword<br>1 
+[[Choice]] 
+2 
+[[Choice]] 
+Definitely Word<br>3 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_8.exp_filler.item_1.cond_filler.lit_Yes]] 
+The professor conducted an inquiry into the status of the file. 
+<br> 
+Did the professor conduct someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:TE:SingleLine]] 
+[[ID:list_1.order_9.exp_attention.item_1.cond_attention.lit_NA]] 
+When Danny walked to school ____ 
+<br><br> 
+Complete the sentence: 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_10.exp_filler.item_5.cond_filler.lit_Yes]] 
+The toddler hugged a teddybear because he was scared. 
+<br> 
+Did the toddler hug someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_11.exp_lexical.item_2.cond_nonword.lit_NA]] 
+cheh 
+<br> 
+[[AdvancedChoices]] 
+[[Choice]] 
+Definitely Nonword<br>1 
+[[Choice]] 
+2 
+[[Choice]] 
+3 
+[[Choice]] 
+4 
+[[Choice]] 
+5 
+[[Choice]] 
+6 
+[[Choice]] 
+Definitely Word<br>7 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_12.exp_filler.item_2.cond_filler.lit_Yes]] 
+The commissioner wrote a report for the chairman. 
+<br> 
+Did the commissioner write someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_1.order_13.exp_filler.item_3.cond_filler.lit_Yes]] 
+The terrorist assassinated the newsman in cold blood. 
+<br> 
+Did the terrorist kill someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Block:list_2]] 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_1.exp_dopo.item_1.cond_PO_implausible.lit_No]] 
+The sister mailed the niece to the letter. 
+<br> 
+Did the niece receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_2.exp_filler.item_5.cond_filler.lit_Yes]] 
+The toddler hugged a teddybear because he was scared. 
+<br> 
+Did the toddler hug someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_3.exp_filler.item_3.cond_filler.lit_Yes]] 
+The terrorist assassinated the newsman in cold blood. 
+<br> 
+Did the terrorist kill someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_4.exp_lexical.item_1.cond_nonword.lit_NA]] 
+tabol 
+<br> 
+[[AdvancedChoices]] 
+[[Choice]] 
+Definitely Nonword<br>1 
+[[Choice]] 
+2 
+[[Choice]] 
+Definitely Word<br>3 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_5.exp_filler.item_4.cond_filler.lit_Yes]] 
+A legislator lied to the consultant about a new bill. 
+<br> 
+Did the legislator lie about someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_6.exp_dopo.item_3.cond_DO_implausible.lit_No]] 
+The uncle sold the truck the father. 
+<br> 
+Did the father receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_7.exp_lexical.item_2.cond_word.lit_NA]] 
+chair 
+<br> 
+[[AdvancedChoices]] 
+[[Choice]] 
+Definitely Nonword<br>1 
+[[Choice]] 
+2 
+[[Choice]] 
+3 
+[[Choice]] 
+4 
+[[Choice]] 
+5 
+[[Choice]] 
+6 
+[[Choice]] 
+Definitely Word<br>7 
+[[Question:TE:SingleLine]] 
+[[ID:list_2.order_8.exp_attention.item_2.cond_attention.lit_NA]] 
+Sheila's favorite birthday present  ____ 
+<br><br> 
+Complete the sentence: 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_9.exp_dopo.item_4.cond_PO_plausible.lit_Yes]] 
+The contractor lent the saw to the homeowner. 
+<br> 
+Did the homeowner receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:TE:SingleLine]] 
+[[ID:list_2.order_10.exp_attention.item_1.cond_attention.lit_NA]] 
+When Danny walked to school ____ 
+<br><br> 
+Complete the sentence: 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_11.exp_filler.item_2.cond_filler.lit_Yes]] 
+The commissioner wrote a report for the chairman. 
+<br> 
+Did the commissioner write someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_12.exp_dopo.item_2.cond_DO_plausible.lit_Yes]] 
+The mother gave the daughter the candle. 
+<br> 
+Did the daughter receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_2.order_13.exp_filler.item_1.cond_filler.lit_Yes]] 
+The professor conducted an inquiry into the status of the file. 
+<br> 
+Did the professor conduct someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Block:list_3]] 
+[[Question:TE:SingleLine]] 
+[[ID:list_3.order_1.exp_attention.item_1.cond_attention.lit_NA]] 
+When Danny walked to school ____ 
+<br><br> 
+Complete the sentence: 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_2.exp_filler.item_5.cond_filler.lit_Yes]] 
+The toddler hugged a teddybear because he was scared. 
+<br> 
+Did the toddler hug someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_3.exp_filler.item_1.cond_filler.lit_Yes]] 
+The professor conducted an inquiry into the status of the file. 
+<br> 
+Did the professor conduct someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_4.exp_dopo.item_3.cond_PO_plausible.lit_Yes]] 
+The uncle sold the truck to the father. 
+<br> 
+Did the father receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_5.exp_lexical.item_1.cond_word.lit_NA]] 
+table 
+<br> 
+[[AdvancedChoices]] 
+[[Choice]] 
+Definitely Nonword<br>1 
+[[Choice]] 
+2 
+[[Choice]] 
+Definitely Word<br>3 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_6.exp_lexical.item_2.cond_nonword.lit_NA]] 
+cheh 
+<br> 
+[[AdvancedChoices]] 
+[[Choice]] 
+Definitely Nonword<br>1 
+[[Choice]] 
+2 
+[[Choice]] 
+3 
+[[Choice]] 
+4 
+[[Choice]] 
+5 
+[[Choice]] 
+6 
+[[Choice]] 
+Definitely Word<br>7 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_7.exp_filler.item_2.cond_filler.lit_Yes]] 
+The commissioner wrote a report for the chairman. 
+<br> 
+Did the commissioner write someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:TE:SingleLine]] 
+[[ID:list_3.order_8.exp_attention.item_2.cond_attention.lit_NA]] 
+Sheila's favorite birthday present  ____ 
+<br><br> 
+Complete the sentence: 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_9.exp_dopo.item_1.cond_DO_plausible.lit_Yes]] 
+The sister mailed the niece the letter. 
+<br> 
+Did the niece receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_10.exp_dopo.item_2.cond_DO_implausible.lit_No]] 
+The mother gave the candle the daughter. 
+<br> 
+Did the daughter receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_11.exp_filler.item_3.cond_filler.lit_Yes]] 
+The terrorist assassinated the newsman in cold blood. 
+<br> 
+Did the terrorist kill someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_12.exp_filler.item_4.cond_filler.lit_Yes]] 
+A legislator lied to the consultant about a new bill. 
+<br> 
+Did the legislator lie about someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_3.order_13.exp_dopo.item_4.cond_PO_implausible.lit_No]] 
+The contractor lent the homeowner to the saw. 
+<br> 
+Did the homeowner receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Block:list_4]] 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_1.exp_filler.item_5.cond_filler.lit_Yes]] 
+The toddler hugged a teddybear because he was scared. 
+<br> 
+Did the toddler hug someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_2.exp_dopo.item_4.cond_DO_plausible.lit_Yes]] 
+The contractor lent the homeowner the saw. 
+<br> 
+Did the homeowner receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_3.exp_filler.item_3.cond_filler.lit_Yes]] 
+The terrorist assassinated the newsman in cold blood. 
+<br> 
+Did the terrorist kill someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:TE:SingleLine]] 
+[[ID:list_4.order_4.exp_attention.item_2.cond_attention.lit_NA]] 
+Sheila's favorite birthday present  ____ 
+<br><br> 
+Complete the sentence: 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_5.exp_dopo.item_3.cond_PO_implausible.lit_No]] 
+The uncle sold the father to the truck. 
+<br> 
+Did the father receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_6.exp_filler.item_2.cond_filler.lit_Yes]] 
+The commissioner wrote a report for the chairman. 
+<br> 
+Did the commissioner write someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_7.exp_dopo.item_2.cond_PO_plausible.lit_Yes]] 
+The mother gave the candle to the daughter. 
+<br> 
+Did the daughter receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_8.exp_lexical.item_2.cond_word.lit_NA]] 
+chair 
+<br> 
+[[AdvancedChoices]] 
+[[Choice]] 
+Definitely Nonword<br>1 
+[[Choice]] 
+2 
+[[Choice]] 
+3 
+[[Choice]] 
+4 
+[[Choice]] 
+5 
+[[Choice]] 
+6 
+[[Choice]] 
+Definitely Word<br>7 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_9.exp_filler.item_4.cond_filler.lit_Yes]] 
+A legislator lied to the consultant about a new bill. 
+<br> 
+Did the legislator lie about someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:TE:SingleLine]] 
+[[ID:list_4.order_10.exp_attention.item_1.cond_attention.lit_NA]] 
+When Danny walked to school ____ 
+<br><br> 
+Complete the sentence: 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_11.exp_filler.item_1.cond_filler.lit_Yes]] 
+The professor conducted an inquiry into the status of the file. 
+<br> 
+Did the professor conduct someone/something? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_12.exp_dopo.item_1.cond_DO_implausible.lit_No]] 
+The sister mailed the letter the niece. 
+<br> 
+Did the niece receive something/someone? 
+[[AdvancedChoices]] 
+[[Choice]] 
+Yes 
+[[Choice]] 
+No 
+[[Question:MC:SingleAnswer:Horizontal]] 
+[[ID:list_4.order_13.exp_lexical.item_1.cond_nonword.lit_NA]] 
+tabol 
+<br> 
+[[AdvancedChoices]] 
+[[Choice]] 
+Definitely Nonword<br>1 
+[[Choice]] 
+2 
+[[Choice]] 
+Definitely Word<br>3 

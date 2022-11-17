@@ -1,0 +1,33 @@
+# dopo 1 DO_plausible
+The sister mailed the niece the letter.
+? Did the niece receive something/someone? Yes
+# dopo 1 DO_implausible
+The sister mailed the letter the niece.
+? Did the niece receive something/someone? No
+# dopo 1 PO_plausible
+The sister mailed the letter to the niece.
+? Did the niece receive something/someone? Yes
+# dopo 1 PO_implausible
+The sister mailed the niece to the letter.
+? Did the niece receive something/someone? No
+
+# dopo 2 DO_plausible
+The mother gave the daughter the candle.
+? Did the daughter receive something/someone? Yes
+# dopo 2 DO_implausible
+The mother gave the candle the daughter.
+? Did the daughter receive something/someone? No
+# dopo 2 PO_plausible
+The mother gave the candle to the daughter.
+? Did the daughter receive something/someone? Yes
+# dopo 2 PO_implausible
+The mother gave the daughter to the candle.
+? Did the daughter receive something/someone? No
+
+# filler 1 filler
+The professor conducted an inquiry into the status of the file.
+? Did the professor conduct someone/something? Yes
+
+# filler 2 filler
+The commissioner wrote a report for the chairman.
+? Did the commissioner write someone/something? Yes
