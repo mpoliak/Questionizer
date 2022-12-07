@@ -1,0 +1,9 @@
+experiment,item,condition,sentence,prompt,question_type,literal_response
+cloze,1,low-const,Dad went to the store to buy a/an ____,Complete the sentence:,completion,NA
+cloze,1,high-const,Dad went to the bakery to buy a/an ____,Complete the sentence:,completion,NA
+cloze,2,low-const,"Omnivore animals would mostly eat any kind of food, for example, ____",Complete the sentence:,completion,NA
+cloze,2,high-const,"Lettuce-eating animals would mostly eat one kind of food, for example, ____",Complete the sentence:,completion,NA
+cloze,3,low-const,Can I please have my dish with a side of ____,Complete the sentence:,completion,NA
+cloze,3,high-const,Can I please have my burger with a side of ____,Complete the sentence:,completion,NA
+cloze,4,low-const,The socks did not match the ____,Complete the sentence:,completion,NA
+cloze,4,high-const,The garment did not match the ____,Complete the sentence:,completion,NA

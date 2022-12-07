@@ -6,7 +6,7 @@ if (!require("numbers")) {install.packages("numbers"); require("numbers")}
 setwd(dirname(getActiveDocumentContext()$path))    ## sets dir to R script path
 
 ## ---- Input User Parameters ---- ##
-stimuli_filename <- "sample_stimuli.csv"
+stimuli_filename <- "sample_stimuli_mix.csv"
 survey_properties_filename <- "sample_survey_properties.csv"
 yesno <- c("Yes", "No") ## (Change according to language)
 ## ---- --------------------- ---- ##
@@ -36,13 +36,18 @@ for (i in 1:length(unique(stimuli$experiment))) {
 
 ## ----- Create Lists -----
 ## Lowest common denominator of number of conditions per experiment
-n_lists <- stimuli %>%
-  select(experiment, condition) %>%
-  distinct() %>%
-  group_by(experiment) %>%
-  summarize(n_conds = n()) %>%
-  pull(n_conds) %>%
-  numbers::mLCM()
+if (length(unique(stimuli$experiment)) == 1) {
+  n_lists <- length(unique(stimuli$condition))
+} else {
+  n_lists <- stimuli %>%
+    select(experiment, condition) %>%
+    distinct() %>%
+    group_by(experiment) %>%
+    summarize(n_conds = n()) %>%
+    pull(n_conds) %>%
+    numbers::mLCM()
+}
+
 
 lists <- tibble(list_id = numeric(),
                 experiment = character(),

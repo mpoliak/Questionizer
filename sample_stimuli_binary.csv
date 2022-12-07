@@ -1,0 +1,17 @@
+experiment,item,condition,sentence,prompt,question_type,literal_response
+dopo,1,DO_plausible,The sister mailed the niece the letter.,Did the niece receive something/someone?,binary,Yes
+dopo,1,DO_implausible,The sister mailed the letter the niece.,Did the niece receive something/someone?,binary,No
+dopo,1,PO_plausible,The sister mailed the letter to the niece.,Did the niece receive something/someone?,binary,Yes
+dopo,1,PO_implausible,The sister mailed the niece to the letter.,Did the niece receive something/someone?,binary,No
+dopo,2,DO_plausible,The mother gave the daughter the candle.,Did the daughter receive something/someone?,binary,Yes
+dopo,2,DO_implausible,The mother gave the candle the daughter.,Did the daughter receive something/someone?,binary,No
+dopo,2,PO_plausible,The mother gave the candle to the daughter.,Did the daughter receive something/someone?,binary,Yes
+dopo,2,PO_implausible,The mother gave the daughter to the candle.,Did the daughter receive something/someone?,binary,No
+dopo,3,DO_plausible,The uncle sold the father the truck.,Did the father receive something/someone?,binary,Yes
+dopo,3,DO_implausible,The uncle sold the truck the father.,Did the father receive something/someone?,binary,No
+dopo,3,PO_plausible,The uncle sold the truck to the father.,Did the father receive something/someone?,binary,Yes
+dopo,3,PO_implausible,The uncle sold the father to the truck.,Did the father receive something/someone?,binary,No
+dopo,4,DO_plausible,The contractor lent the homeowner the saw.,Did the homeowner receive something/someone?,binary,Yes
+dopo,4,DO_implausible,The contractor lent the saw the homeowner.,Did the homeowner receive something/someone?,binary,No
+dopo,4,PO_plausible,The contractor lent the saw to the homeowner.,Did the homeowner receive something/someone?,binary,Yes
+dopo,4,PO_implausible,The contractor lent the homeowner to the saw.,Did the homeowner receive something/someone?,binary,No

@@ -1,4 +1,12 @@
 experiment,item,condition,sentence,prompt,question_type,literal_response
+lexical,1,word,table,Definitely Nonword_Definitely Word,likert5,NA
+lexical,1,nonword,tabol,Definitely Nonword_Definitely Word,likert5,NA
+lexical,2,word,chair,Definitely Nonword_Definitely Word,likert5,NA
+lexical,2,nonword,cheh,Definitely Nonword_Definitely Word,likert5,NA
+lexical,3,word,mask,Definitely Nonword_Definitely Word,likert5,NA
+lexical,3,nonword,mesque,Definitely Nonword_Definitely Word,likert5,NA
+lexical,4,word,sliver,Definitely Nonword_Definitely Word,likert5,NA
+lexical,4,nonword,cliver,Definitely Nonword_Definitely Word,likert5,NA
 dopo,1,DO_plausible,The sister mailed the niece the letter.,Did the niece receive something/someone?,binary,Yes
 dopo,1,DO_implausible,The sister mailed the letter the niece.,Did the niece receive something/someone?,binary,No
 dopo,1,PO_plausible,The sister mailed the letter to the niece.,Did the niece receive something/someone?,binary,Yes
@@ -15,14 +23,11 @@ dopo,4,DO_plausible,The contractor lent the homeowner the saw.,Did the homeowner
 dopo,4,DO_implausible,The contractor lent the saw the homeowner.,Did the homeowner receive something/someone?,binary,No
 dopo,4,PO_plausible,The contractor lent the saw to the homeowner.,Did the homeowner receive something/someone?,binary,Yes
 dopo,4,PO_implausible,The contractor lent the homeowner to the saw.,Did the homeowner receive something/someone?,binary,No
-filler,1,filler,The professor conducted an inquiry into the status of the file.,Did the professor conduct someone/something?,binary,Yes
-filler,2,filler,The commissioner wrote a report for the chairman.,Did the commissioner write someone/something?,binary,Yes
-filler,3,filler,The terrorist assassinated the newsman in cold blood.,Did the terrorist kill someone/something?,binary,Yes
-filler,4,filler,A legislator lied to the consultant about a new bill.,Did the legislator lie about someone/something?,binary,Yes
-filler,5,filler,The toddler hugged a teddybear because he was scared.,Did the toddler hug someone/something?,binary,Yes
-lexical,1,word,table,Definitely Nonword_Definitely Word,likert3,NA
-lexical,1,nonword,tabol,Definitely Nonword_Definitely Word,likert3,NA
-lexical,2,word,chair,Definitely Nonword_Definitely Word,likert7,NA
-lexical,2,nonword,cheh,Definitely Nonword_Definitely Word,likert7,NA
-attention,1,attention,When Danny walked to school ____,Complete the sentence:,completion,NA
-attention,2,attention,Sheila's favorite birthday present  ____,Complete the sentence:,completion,NA
+cloze,1,low-const,Dad went to the store to buy a/an ____,Complete the sentence:,completion,NA
+cloze,1,high-const,Dad went to the bakery to buy a/an ____,Complete the sentence:,completion,NA
+cloze,2,low-const,"Omnivore animals would mostly eat any kind of food, for example, ____",Complete the sentence:,completion,NA
+cloze,2,high-const,"Lettuce-eating animals would mostly eat one kind of food, for example, ____",Complete the sentence:,completion,NA
+cloze,3,low-const,Can I please have my dish with a side of ____,Complete the sentence:,completion,NA
+cloze,3,high-const,Can I please have my burger with a side of ____,Complete the sentence:,completion,NA
+cloze,4,low-const,The socks did not match the ____,Complete the sentence:,completion,NA
+cloze,4,high-const,The garment did not match the ____,Complete the sentence:,completion,NA

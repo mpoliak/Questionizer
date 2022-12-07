@@ -3,17 +3,18 @@ Questionizer is a survey creation tool for language experiments. It reads a csv 
 
 ## Main Features
 1. Produces Qualtrics-compatible .txt file.
-2. Supports polar questions, Likert items, and open text questions.
+2. Supports binary response questions, Likert items, and open text questions.
 3. Generates a Lating Square design.
-4. Contains data wrangling code that puts data from Qualtrics in a convenient format for analysis.
+4. Contains data wrangling code that puts data from Qualtrics in a long-format dataframe.
 
 ## Contents:
 * `questionizer.R`: turns two .csv files into a .txt file that can be uploaded on Qualtrics to generate an experiment.
 * `data_wrangling.R`: parses data from Qualtrics into a convenient format (only works for surveys that were generated using Questionizer).
 * `stimuli_turkolizer_to_questionizer.R`: turns a .txt file in Turkolizer format to a .csv stimuli file for Questionizer.
 * `sample_survey_properties.csv`: sample questions like demographics and consent.
-* `sample_stimuli.csv`: sample stimuli in the Questionizer format.
+* `sample_stimuli_(binary/likert/open/mix).csv`: sample stimuli in the Questionizer format.
 * `turkformat_stimuli.txt`: sample stimuli in the Turkolizer format.
+* `data.csv`: a sample data file exported from prolific that can be used with the `data_wrangling.R`.
 
 ## Usage
 1. In the same folder as the scripts, create a csv file for stimuli and a csv file for the head block (for consent, demographics, etc.; see below for more information).
@@ -21,6 +22,7 @@ Questionizer is a survey creation tool for language experiments. It reads a csv 
 3. Go on Qualtrics, create an empty survey, and, on the survey page, click on Tools->Import/Export->Import Survey, and upload the file that was just created (`qualtrics_survey.txt`). This may take a few minutes because Qualtrics takes some time to parse the file (refreshing does not stop the process). *Nota Bene*: If you have many questions and lists (questions\*lists > 1000), Qualtrics may get stuck when creating the survey. Simply refresh, see which lists were not uploaded, and reupload a version of the .txt file without the lists that have been successfully uploaded.
 4. **THIS IS A CRITICAL STAGE ON QUALTRICS. DON'T MISS THIS**: 
 * Equal assignment of participants: Go into "Survey Flow" on the left side of the survey page on Qualtrics. Scroll to the bottom and choose "Add a New Element Here". Choose "Randomizer." Then, move all the blocks except "headerBlock" into the randomizer (drag and drop). Choose to randomly present **1** of the following elements and tick the "Evenly Present Elements" box. If you don't choose 1 or don't tick the box, participants will be exposed to more than one list or the lists will have unequal number of participants (respectively). Click "Apply."
+* Randomization: Qualtrics supports full randomization within each list. This option is often desirable to eliminate order effects. Therefore, on the main page of the survey, for each list, click on it, select "Question randomization" on the left panel, and then choose "Randomize the order of all questions."
 5. Once the data are collected, you can download them from the tab "Data & Analysis" and export the data in .csv format, downloading all fields using choice text (the default settings on Qualtrics). Unzip the data in the same folder with `data_wrangling.R` and run the script (after specifying the file name) to reshape the data into a convenient format.
 
 ## Details about input
@@ -39,7 +41,7 @@ This lets you create the questionnaire lists that participants see. For each que
 
 The number of lists that will be created is equal to the lest common multiple of the number of conditions of all experiments.
 
-The question types are binary, likertN (with 1 < x < 10), and completion. 
+The question types are binary, likertN (with 1 < N < 10), and completion. 
 * binary: these are polar questions, to which participants respond either Yes or No. Put under the `sentence` column the sentence that you want participants to see, and under the `prompt` the question that you want them to see with this sentence. Under `literal_response` provide the answer that would indicate a literal interpretation (or, in other paradigms, whatever the correct answer is to the item, Yes or No).
 * likertN: under `sentence`, provide what you want to display to the participants, and under `prompt` provide the labels for the Likert scale (e.g., "Ungrammatical_Grammatical"). Write NA under `literal_response`, it's not useful here.
 * completion: under `sentence`, provide the sentence that you want to display to the participants, and under `prompt` provide the instructions for participants (e.g., "complete the sentence"). Write NA under `literal_response`, it's not useful here.

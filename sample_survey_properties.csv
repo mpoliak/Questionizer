@@ -3,4 +3,4 @@ order,name,type,content,options
 2,participant_ID,question_text,Please provide your prolific ID,
 3,english_first_language,question_choices,Is English your first language?,Yes_No
 4,country_of_birth,question_choices,Where were you born?,United States_Canada_UK_Australia_New Zealand_Other
-5,instructions,text,Instructions: Please read each sentence and then answer the question immediately following. Please note that there are correct answers for many questions. We will reject users with error rates of 25% or larger. Consequently if you cannot answer 75% of the questions correctly please do not fill out the survey.,
+5,instructions,text,<b>Instructions</b>: <br>Please read each sentence and then answer the question immediately following. Please note that there are correct answers for many questions. We will reject users with error rates of 25% or larger. Consequently if you cannot answer 75% of the questions correctly please do not fill out the survey.,
